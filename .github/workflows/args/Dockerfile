@@ -1,4 +1,4 @@
-FROM debian:9.5-slim
+FROM debian:9.13-slim
 
 LABEL maintainer="Alexander Rogalskiy <alexander.rogalsky@yandex.ru>"
 LABEL homepage="http://github.com/AlexRogalskiy"
